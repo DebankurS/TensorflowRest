@@ -15,7 +15,7 @@ gunicorn==22.0.0
 h5py==2.9.0
 imageio==2.5.0
 itsdangerous==1.1.0
-Jinja2==2.11.3
+Jinja2==3.1.6
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0

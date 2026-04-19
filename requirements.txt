@@ -10,7 +10,7 @@ gast==0.2.2
 gevent==1.4.0
 google-pasta==0.1.7
 greenlet==0.4.15
-grpcio==1.22.0
+grpcio==1.53.2
 gunicorn==22.0.0
 h5py==2.9.0
 imageio==2.5.0
